@@ -1,2 +1,3 @@
-# dairealani_hesaplama_python
-Python'da kullanıcıdan daire yarı çapını girmelerini istedikten sonra çevre ve alan hesaplayan program
+# Circle_Area_Circumference
+
+A program that calculates the area and circumference of the circle with the radius input from the user.
